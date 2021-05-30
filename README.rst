@@ -11,3 +11,4 @@ Credits
 See, `AUTHORS`_.
 
 .. _`AUTHORS`: https://github.com/williamcanin/tests-github-actions/blob/master/AUTHORS.rst
+.. _MIT License: https://github.com/williamcanin/tests-github-actions/blob/master/LICENSE
