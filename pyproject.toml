@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tests-github-actions"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["William C. Canin <william.costa.canin@gmail.com>"]
 readme = "README.rst"
