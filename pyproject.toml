@@ -19,6 +19,7 @@ tox = "^3.23.1"
 isort = "^5.8.0"
 black = "^21.5b1"
 flake8 = "^3.9.2"
+mypy = "^0.812"
 
 
 [tool.black]
